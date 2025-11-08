@@ -4,6 +4,7 @@ public class Main {
    }
 }
 
+
 //dev-02 push some local 
 public class Main{
    public static void main(String[] args) {
@@ -13,3 +14,6 @@ public class Main{
       System.out.println("sum of two number " + " c);
    }
 }
+
+new code by dev-1 without pull the code
+
